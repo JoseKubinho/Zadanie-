@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1704481820 source:c:\users\jakub marek\desktop\studia\programowanie\zadanie 1.4\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
